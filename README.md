@@ -1,0 +1,1 @@
+Hello! This is a configuration that creates an AWS infrastructure for uploading insurance claim data to an S3 bucket and processing the data into DynamoDB. It uses Python for the backend logic to upload data to S3 and import it to DynamoDB.

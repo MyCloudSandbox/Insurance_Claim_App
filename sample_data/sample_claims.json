@@ -1,0 +1,16 @@
+[
+  {
+    "ClaimID": "12345",
+    "PatientName": "John Doe",
+    "ServiceDate": "2024-11-01",
+    "Amount": "1200.50",
+    "Status": "Approved"
+  },
+  {
+    "ClaimID": "12346",
+    "PatientName": "Jane Smith",
+    "ServiceDate": "2024-11-02",
+    "Amount": "800.00",
+    "Status": "Pending"
+  }
+]
